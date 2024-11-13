@@ -1,0 +1,268 @@
+/* Singup.css */
+
+.body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #cec6f8, #b9a5ca); /* Gradient from left to right */
+  background: fixed;
+    
+    /* background-color: #f3eaea; */
+    height: 2000px;
+}
+.pandess
+{
+  /* background-color: #20d389; */
+  height: 0cm;
+  width: 1000rem;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+}
+.pic5{
+  display: flex;
+  width: 100%;
+  margin-top: 15cap;
+}
+.singup {
+  /* background-image: url(image.jpeg); */
+  
+    max-width: 400px;
+    margin: 7rem auto;
+    /* margin-top: 10rem; */
+    padding: 1rem;
+    /* background-color: #7db8f0; */
+    /* width: 300px;
+            height: 2000px;
+            border: 1px solid #ddd;
+            margin: 20px; */
+    border-radius: 19px;
+    /* border-color: black;
+    border: solid; */
+    border:black solid 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+.loginpage h1 {
+  
+  text-align: center;
+}
+button:last-of-type {
+  margin-left: 20px; /* Adds more space above the Signup button */
+}
+.input {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    /* background-color: #d2ee9f; */
+    padding: 10cap;
+}
+button{
+    /* margin-left: 10cap; */
+}
+h1{
+    margin-left: 7cap;
+}
+input {
+    margin-bottom: 1rem;
+    padding: 0.75rem;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+input:focus {
+    border-color: #007bff;
+    outline-offset: #20d389;
+}
+
+.person1{
+  font-size: 3rem;
+  font-display: right;
+  margin-top: 0cap;
+}
+.container {
+  display: flex; /* Enables Flexbox */
+  align-items: center; /* Centers items vertically */
+  justify-content: space-between; /* Spreads items to the ends */
+  padding: 10px; /* Optional padding */
+  background-color: #f0f0f0; /* Optional background color */
+  height: 50px; /* Set height */
+}
+
+.person1 {
+  margin-left: auto; /* Pushes the icon to the right */
+}
+
+.person{
+  font-size: 3rem;
+}
+.container {
+  display: flex; /* Enables Flexbox layout */
+  align-items: center; /* Vertically centers the elements */
+  justify-content: space-between; /* Distributes space between items */
+  padding: 10px; /* Optional padding for spacing */
+  background-color: #f0f0f0; /* Optional background color */
+  height: 50px; /* Set height */
+  font-size: 50px;
+}
+
+.container h4, .container .person1 {
+  margin: 0 10px; /* Adds margin between elements */
+}
+
+.person1 {
+  margin-left: auto; /* Pushes this icon to the far right */
+}
+
+.input.person{
+  display: flex;  /* Enables Flexbox */
+  justify-content: center;  /* Centers content horizontally */
+  align-items: center;  /* Centers content vertically */
+  height: 100px;  /* Set a height */
+  background-color: #f0f0f0;  /* Optional background color */
+  
+}
+.signup {
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent background for the form */
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.signup {
+  display: flex;
+  flex-direction: column;
+}
+
+.signup h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.signup-form input {
+  margin-bottom: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.signup-form button {
+  padding: 
+}
+/* .body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX5F9zWy3kx-YLRqytRaPcVse4_g6ZRSutEw&s");
+  background-repeat:no-repeat;
+  background-size: contain ;
+  } */
+  .name1{
+    background-color: #202713;
+    width: 100%;
+    height: 7cm;
+    margin-left: 0cap;
+    /* justify-items: space-between; */
+  }
+  .eachs{
+    /* background-color: rgb(238, 174, 174); */
+    width: 70px;
+    color: #e42a2a;
+    float: left;
+    margin-left: 1cap;
+  }
+  .diss{
+  margin-left: 96cap;
+  float: left;
+ color: #b5aef3;
+}
+.dis{
+  margin-left: 32cap;
+  color: #f39ac6;
+  float: left;
+  width: 20px;
+  /* height: fit-content; */
+}
+button {
+    padding: 0.75rem;
+    border: none;
+    border-radius: 4px;
+    background-color: #f39ac6;
+    color: #fff;
+    cursor: pointer;
+    font-size: 1rem;
+}
+.rate p,h2{
+    margin-right: 1.3%;
+}
+.parara p,span{
+    margin-left: -18cap;
+
+}
+span{
+    background-color: #007bff;
+}
+button:hover {
+    background-color: #20d389;
+}
+.loginpage{
+    margin-top: 5cap;
+}
+
+.home {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .list {
+    display: flex; /* Use flexbox to display items in a line */
+    gap: 15px; /* Add spacing between items */
+    margin-bottom: 20px;
+  }
+  
+  .list h4 {
+    margin: 0; /* Remove margin from h4 elements */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .content {
+    /* overflow-y: hidden;
+    overflow-x: auto; */
+    /* border: 1px solid #e27272; */
+    padding: 10px;
+}
+
+.imagepage {
+    flex: 1;
+    text-align: center;
+}
+  
+  .imagepage img {
+    width: 100%; /* Make images take the full width of their container */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 8px; /* Optional: Add rounded corners */
+
+  }
+  
+  .p1,.p2, .p3, .p4, .p5 {
+    margin-top: 20px;
+    display: flex; /* Flexbox layout */
+    direction: column;
+    gap:15px; /* Add spacing between elements */
+    width: 2000px;
+  }
+  
+  .imag1, .para {
+    flex: 1; /* Make all elements the same size */
+    border: 1px solid #ddd; /* Optional: Border for visual clarity */
+    padding: 20px; /* Add padding */
+    border-radius: 8px; /* Rounded corners */
+  }
+  
+  .image-container {
+    display: flex;
+    flex-direction: column; /* Horizontal layout */
+    gap: 10px; /* Space between images */
+  }

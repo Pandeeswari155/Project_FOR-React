@@ -1,0 +1,42 @@
+.Booking_detail{
+    padding: 20px;
+    border: solid;
+    width: fit-content;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+    display:flex;
+    align-items: center;
+    gap:60px;
+    width: 1000px;
+    height: 600px;
+}
+.front_details{
+    flex: 2;
+}
+.content{
+    width: 400px;
+}
+.book{
+    /* margin-left: 40%; */
+    padding-top: 300px;
+    padding-left: 30%;
+    /* background-color: rgb(59, 59, 146); */
+    padding-bottom: 40px;
+    /* background-image: url("https://plus.unsplash.com/premium_photo-1674651240687-92b4ad15d0ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aG90ZWwlMjBib29raW5nfGVufDB8fDB8fHww"); */
+    background-repeat:no-repeat ;
+    /* opacity:4.5; */
+    /* background-color: hsla(240, 7%, 84%, 0.3); */
+    /* background-color: #302e2e80; */
+    background-color: rgba(168, 156, 156, 0.5);
+    /* width: 300px; */
+}
+h1{
+    margin-left: 1px;
+}
+.cansel{
+    /* padding-inline:; */
+    /* margin-top: 500px; */
+}
+.name-style{
+    color:green;
+}

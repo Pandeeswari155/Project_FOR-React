@@ -1,0 +1,37 @@
+.Booking_details{
+    background-image: url();
+    text-align: center;
+    border: solid;
+    border-radius: 1px;
+    border-color: black;
+    border-width: 1;
+    margin-left:750px ;
+    width: max-content;
+    /* height: 100px; */
+    padding: 50px;
+    /* padding-top: 160px; */
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+}
+.custom-checkbox {
+    width: 30px;              /* Set the width */
+    height: 30px;             /* Set the height */
+    accent-color: blue;       /* Change checkbox color (modern browsers) */
+    margin-left: 10px;        /* Space between label and checkbox */
+    cursor: pointer;          /* Pointer cursor on hover */
+}
+
+.Booking_details input::placeholder{
+        color:rgb(0, 12, 4)
+}
+.Booking_details input
+{
+    border: solid;
+    border-width: 2px;
+}
+.Booking_details label{
+    font-size: 20px;
+    font-weight: 200;
+}
+

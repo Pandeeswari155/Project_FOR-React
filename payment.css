@@ -1,0 +1,40 @@
+.scan
+{
+    height: 800px;
+    width: 800px;
+}
+.Payment
+{
+    margin-left: 600px;
+}
+.input_value
+{
+    margin-left: 200px;
+    /* size: 400cm; */
+    font-size: 100px;
+    height: 50px;
+    height: 200px;
+    width: 400px;
+}
+.pay_click{
+    margin-left: 100%;
+    /* padding-left: 20px; */
+    background-color: green;
+    justify-content: center; 
+}
+/* .Payment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;  /* Horizontally centers the button and other content */
+    /* Vertically centers the content if you want */
+    /* Optional: if you want to center the content vertically as well */
+  
+.input_value::placeholder{
+    text-align: center;
+    font-size: large;
+    color: green;
+    border-radius: 4%;
+}
+button{
+
+}
